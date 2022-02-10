@@ -1,0 +1,1 @@
+const e={key:"v-0131ef3a",path:"/one/03-fake3.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1634284055e3,contributors:[{name:"G100",email:"G100my.lan229@gmail.com",commits:1}]},filePathRelative:"one/03-fake3.md"};export{e as data};

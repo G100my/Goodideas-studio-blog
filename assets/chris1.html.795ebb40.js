@@ -1,0 +1,1 @@
+import{o as e,c as o,F as a,a as t}from"./app.ed5aae7a.js";import{_ as n}from"./plugin-vue_export-helper.21dcd24c.js";const s={},c=t("p",null,"test chris",-1),r=t("p",null,"Hakuna matata~~~ by Lo",-1),_=t("p",null,"hi by Titangene",-1),l=t("p",null,"say hoo~~ by mango",-1);function i(h,m){return e(),o(a,null,[c,r,_,l],64)}var d=n(s,[["render",i]]);export{d as default};

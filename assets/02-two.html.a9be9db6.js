@@ -1,0 +1,1 @@
+import{o as e,c as o}from"./app.ed5aae7a.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const t={};function c(_,n){return e(),o("p",null,"two \u8CC7\u6599\u593E\u7684\u6587\u7AE0 2")}var f=r(t,[["render",c]]);export{f as default};
